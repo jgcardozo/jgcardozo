@@ -27,8 +27,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://laravel.com/" target="_blank"> <img src="https://i0.wp.com/ffontanesf.es/wp-content/uploads/2016/12/restful_api1.png?fit=640%2C219&ssl=1" alt="jquery" width="130" height="40"/></a> 
-<a href="https://jetstream.laravel.com/" target="_blank"> <img src="https://jetstream.laravel.com/assets/img/logo.svg" alt="jquery" width="130" height="40"/></a>
-<a href="https://es-co.wordpress.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="wordpress cms" width="110" height="40"/></a>
+<a href="https://jetstream.laravel.com/" target="_blank"> <img src="https://jetstream.laravel.com/assets/img/logo.svg" alt="jquery" width="150" height="40"/></a>
+<a href="https://es-co.wordpress.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="wordpress cms" width="130" height="40"/></a>
 <a href="https://laravel-livewire.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4RqqyqQ8riUfn-oHe3ThX2yYzVm9IgmCiv1Y1E1b4zkTDL4pihhl6ab3GzbEK4azUA&usqp=CAU" alt="livewire" width="100" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="jquery" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" alt="ajax" width="60" height="40"/></a>
