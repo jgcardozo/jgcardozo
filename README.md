@@ -3,7 +3,7 @@
 <h1 align="center">I'm Juan Guillermo Perez Cardozo</h1>
 <h3 align="center">A passionate fullStack developer from Cali Colombia</h3>
 
-![](![imagen](https://user-images.githubusercontent.com/47826717/118201626-88605d00-b41d-11eb-8630-b31601a41c37.png))
+![](https://d1hdtc0tbqeghx.cloudfront.net/wp-content/uploads/2020/07/27141257/laravel-livewire.jpg)
 
 - 🔭 I’m currently working for [Ashe](www.ashe.com.co)
 
