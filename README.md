@@ -31,5 +31,5 @@
 
 <h3 align="left">Other Skills:</h3>
 <p align="left">
-Agile methodologies such as Scrum, Kanban. Business Intelligence
+Agile methodologies such as Scrum, Kanban. Business Intelligence using ETL.
 </p>
