@@ -37,5 +37,5 @@
 
 <h3 align="left">Other Skills:</h3>
 <p align="left">
-Agile methodologies such as Scrum, Kanban. Slack, Trello, Jira. Business Intelligence using ETL. 
+Agile methodologies such as Scrum, Kanban.  Collaborative tools: Slack, Trello, Jira. Business Intelligence using ETL. 
 </p>
