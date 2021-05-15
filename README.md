@@ -3,7 +3,7 @@
 <h1 align="center">I'm Juan Guillermo Perez Cardozo</h1>
 <h3 align="center">A passionate fullStack developer from Cali Colombia</h3>
 
-![](https://jelastic.com/blog/wp-content/uploads/2019/04/laravel-framework.png)
+![](https://www.dasinfomedia.com/wp-content/uploads/2020/03/Laravel-Development-Blog.jpg)
 
 
 
