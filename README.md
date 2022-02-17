@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working for [Ashe](www.ashe.com.co)
+- 🔭 I’m currently working for [Ideaware](https://ideaware.co/)
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m working on **AppAndroid: Ashe Entregas**
+- 👯 I've been developing the **AppAndroid: Ashe Entregas**
 
 - 👨‍💻 some of my projects are available at [https://github.com/jgcardozo](https://github.com/jgcardozo)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juanguillermopc/](https://www.linkedin.com/in/juanguillermopc/)
 
-- ⚡ Hobbies **Play soccer, do workout and play video games**
+- ⚡ Hobbies **Play soccer, workout and play video games**
 
 
 <h3 align="left">Languages and Tools:</h3>
